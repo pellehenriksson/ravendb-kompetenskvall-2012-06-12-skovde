@@ -25,7 +25,6 @@
 [Pp]ackages/
 packages.config
 *.log 
-.nuget
 UpgradeLog*.XML
 _UpgradeReport_Files
 *.pdb
