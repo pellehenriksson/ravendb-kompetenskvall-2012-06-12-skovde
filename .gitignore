@@ -1,0 +1,53 @@
+# OS junk files #
+######################
+[Tt]humbs.db
+*.DS_Store
+
+# Output directories #
+######################
+[bB]in
+[dD]ebug
+[rR]elease
+[oO]bj
+[bB]uild[aA]rtifacts
+[Tt]est[Rr]esult*
+
+# Local info #
+##############
+*.vssscc
+*.user
+*.suo
+*.vspscc
+*.[pP]ublish.xml
+*mm_cache.bin
+*.sln.cache
+[u|U]ser.[c|C]onfig
+[Pp]ackages/
+packages.config
+*.log 
+.nuget
+UpgradeLog*.XML
+_UpgradeReport_Files
+*.pdb
+*.xml
+
+# Resharper #
+#############
+*.ReSharper
+_ReSharper*
+
+# Tooling #
+###########
+*dotCover*
+*ncrunchsolution
+*ncrunchproject
+StyleCop.Cache
+
+# Office Temp Files #
+#####################
+~$*
+
+# Web #
+#######
+/src/BigSpender.Web/App_Data/RavenDb
+NLog.config
